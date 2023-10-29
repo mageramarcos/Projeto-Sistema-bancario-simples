@@ -19,7 +19,7 @@ Detalhe: Sempre que a validação de uma requisição falhar, haverá uma respos
 // Quando é informado um número de conta que não existe:
 // HTTP Status 404
 {
-    "mensagem": "Conta não encontrada"
+    "mensagem": "Nenhuma conta foi localizada"
 }
 ```
 ## **Persistências dos dados**
