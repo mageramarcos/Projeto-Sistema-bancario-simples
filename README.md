@@ -1,3 +1,5 @@
+<img src="./excode.png">
+
 # Conta Bancária
 
 Nesse projeto foi construído uma RESTful API para o melhor banco digital, o **Mag Bank**, que permite:
